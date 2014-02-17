@@ -1,0 +1,8 @@
+build
+obj
+*.make
+Makefile
+nohup.out
+*.pyc
+.ycm_extra_conf.py
+**/generated
