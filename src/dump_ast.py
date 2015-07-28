@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # vim: set fileencoding=utf-8
 import clang.cindex
-import asciitree
+import asciitree # must be version 0.2
 import sys
 
 def node_children(node):
